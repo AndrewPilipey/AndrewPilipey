@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AndrewPilipey
-- 👀 I’m interested in science, computers and space
-- 🌱 I’m currently learning on one's own
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Мы - всех своих действий сумма >>>
 
 <!---
 AndrewPilipey/AndrewPilipey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
